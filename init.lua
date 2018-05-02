@@ -38,6 +38,26 @@ minetest.override_item("stairs:stair_outer_cobble", {
   tiles = {{name = "default_cobble.png", align_style = "world", scale = 2}}
 })
 
+minetest.override_item("default:mossycobble", {
+  tiles = {{name = "default_mossycobble.png", align_style = "world", scale = 2}}
+})
+
+minetest.override_item("stairs:slab_mossycobble", {
+  tiles = {{name = "default_mossycobble.png", align_style = "world", scale = 2}}
+})
+
+minetest.override_item("stairs:stair_mossycobble", {
+  tiles = {{name = "default_mossycobble.png", align_style = "world", scale = 2}}
+})
+
+minetest.override_item("stairs:stair_inner_mossycobble", {
+  tiles = {{name = "default_mossycobble.png", align_style = "world", scale = 2}}
+})
+
+minetest.override_item("stairs:stair_outer_mossycobble", {
+  tiles = {{name = "default_mossycobble.png", align_style = "world", scale = 2}}
+})
+
 minetest.override_item("default:dirt", {
   tiles = {{name = "default_dirt.png", align_style = "world", scale = 2}}
 })
