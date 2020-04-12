@@ -1,6 +1,6 @@
 twoscaledemo
 
-A mod as a texture pack. To demonstrate the new scale feature in the tile def.
+A texture pack as a mod. To demonstrate the new scale feature in the tile def.
 
 License for all of this mod is "CC0", see below.
 
